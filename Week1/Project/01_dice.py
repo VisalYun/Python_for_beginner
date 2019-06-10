@@ -17,4 +17,6 @@ else:
         print("Dice "+str(i)+" : "+str(rad))
         i+=1
         num-=1
+print("==========")
 print("RESULT: "+str(ans))
+print("==========")
